@@ -14,7 +14,7 @@
   <real value="5" name="gaffL"/>
   <real value="1100" name="footL"/>
   <real value="2732" name="leechL"/>
-  <real value="0" name="luffR"/>
+  <real value="27" name="luffR"/>
   <real value="0" name="gaffR"/>
   <real value="100" name="leechR"/>
   <real value="0" name="footR"/>
