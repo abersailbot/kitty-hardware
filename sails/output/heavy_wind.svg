@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="17007.873"
+   width="15944.882"
    height="2104.7244"
-   viewBox="0 0 13606.294 1683.7784"
+   viewBox="0 0 12755.901 1683.7784"
    version="1.2"
    id="svg3289"
    inkscape:version="0.48.2 r9819"
@@ -43,9 +43,9 @@
      width="841mm"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="1727.8766"
-     inkscape:cy="927.85308"
+     inkscape:zoom="0.088388348"
+     inkscape:cx="4049.9091"
+     inkscape:cy="2285.4981"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -79,7 +79,7 @@
      id="defs3295" />
   <g
      id="g3413"
-     transform="translate(11139.996,-4539.9982)">
+     transform="translate(10343.511,-4539.9982)">
     <g
        vector-effect="non-scaling-stroke"
        transform="matrix(2.85714,0,0,2.85714,-1187.8855,6139.343)"
@@ -109,7 +109,7 @@
   </g>
   <g
      id="g3407"
-     transform="translate(7659.9972,-3039.9988)">
+     transform="translate(6863.5124,-3039.9988)">
     <g
        vector-effect="non-scaling-stroke"
        transform="matrix(2.85714,0,0,2.85714,-1187.8855,6139.343)"
@@ -139,7 +139,7 @@
   </g>
   <g
      id="g3401"
-     transform="matrix(-1,0,0,-1,6559.8174,3247.4371)">
+     transform="matrix(-1,0,0,-1,5763.3326,3247.4371)">
     <g
        vector-effect="non-scaling-stroke"
        transform="matrix(2.85714,0,0,2.85714,-1187.8855,6139.343)"
@@ -169,7 +169,7 @@
   </g>
   <g
      id="g3387"
-     transform="matrix(-1,0,0,-1,3116.0009,265.38751)">
+     transform="matrix(-1,0,0,-1,2319.5161,265.38751)">
     <g
        vector-effect="non-scaling-stroke"
        transform="matrix(2.85714,0,0,2.85714,-1187.8855,6139.343)"
@@ -199,7 +199,7 @@
   </g>
   <g
      id="g3381"
-     transform="translate(-1219.9995,2859.9991)">
+     transform="matrix(0,1,-1,0,7738.3078,-522.30469)">
     <g
        vector-effect="non-scaling-stroke"
        transform="matrix(2.85714,0,0,2.85714,-1187.8855,6139.343)"
@@ -229,7 +229,7 @@
   </g>
   <g
      id="g3393"
-     transform="translate(1879.9993,49.780409)">
+     transform="translate(1083.5145,49.780409)">
     <g
        vector-effect="non-scaling-stroke"
        transform="matrix(2.85714,0,0,2.85714,-1187.8855,6139.343)"
@@ -267,7 +267,7 @@
   </g>
   <g
      id="g4216"
-     transform="translate(1104.2176,45.254819)">
+     transform="translate(307.73279,45.254819)">
     <path
        inkscape:connector-curvature="0"
        id="path4208"
