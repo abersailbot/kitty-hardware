@@ -8,19 +8,19 @@
   <real value="500" name="foreJ" />
   <real value="500" name="tackX" />
   <real value="50" name="tackY" />
-  <real value="3550" name="luffL" />
+  <real value="2650" name="luffL" />
   <real value="0" name="rake" />
   <real value="45" name="gaffDeg" />
   <real value="5" name="gaffL" />
-  <real value="1200" name="footL" />
-  <real value="3525" name="leechL" />
-  <real value="0" name="luffR" />
+  <real value="1100" name="footL" />
+  <real value="2732" name="leechL" />
+  <real value="27" name="luffR" />
   <real value="0" name="gaffR" />
-  <real value="250" name="leechR" />
+  <real value="100" name="leechR" />
   <real value="0" name="footR" />
   <int value="50" name="luffRP" />
   <int value="50" name="gaffRP" />
-  <int value="80" name="leechRP" />
+  <int value="55" name="leechRP" />
   <int value="50" name="footRP" />
   <real value="500" name="clothW" />
   <real value="13" name="seamW" />
