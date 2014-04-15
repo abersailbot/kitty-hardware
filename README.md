@@ -20,3 +20,4 @@ Weights:
   * box:
     * base > 29 kilos
     * lid 19 kilos
+    * 2.09m x 0.72m x 0.60m
