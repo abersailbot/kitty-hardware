@@ -5,4 +5,7 @@ Electorics
 Box connectors
 --------------
 
-Port pins:
+###Plug 1
+  1. Power (6v)
+  2. Ground
+  3. Rudder servo data
