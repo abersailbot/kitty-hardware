@@ -6,8 +6,9 @@ Files relating to Kitty's hardware
 This currently contains:
 
   * [Sails](sails) - Files for the sails
-  * [Hul](hull) - Files used in the construction of the hull
+  * [Hull](hull) - Files used in the construction of the hull
 
+![kitty](https://raw.githubusercontent.com/abersailbot/kitty-cad/master/kitty.png)
 
 Unless specified otherwise, the files contained within are licenced under [CC BY
 4.0](http://creativecommons.org/licenses/by/4.0/). See [COPYING](COPYING) for
