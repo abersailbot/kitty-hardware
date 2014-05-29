@@ -25,10 +25,10 @@ Box connectors
   3. 
   4. 
   5. 
-  6. 
+  6. Compass SDA
   7. Rowind Ground
   8. 
   9. 
   10.
-  11. 
+  11. Compass SCL
   12. Rowind Power (14.4v)
