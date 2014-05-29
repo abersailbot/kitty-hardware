@@ -19,16 +19,16 @@ Box connectors
   11. Multiplexor Ground
   12.
 
-###Plug 1
+###Plug 2
   1. 
   2. 
   3. 
   4. 
   5. 
   6. Compass SDA
-  7. Rowind Ground
-  8. 
-  9. 
-  10.
+  7. Compass Ground
+  8. Rowind Data
+  9. Rowind Ground
+  10. Rowind Power (14.4v)
   11. Compass SCL
-  12. Rowind Power (14.4v)
+  12. Compass Power (5v)
