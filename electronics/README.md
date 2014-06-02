@@ -20,10 +20,10 @@ Box connectors
   12.
 
 ###Plug 2
-  1. 
-  2. 
-  3. 
-  4. 
+  1. Wifi Ground
+  2. Wifi Data-
+  3. Wifi Data+
+  4. Wifi Power (5v)
   5. 
   6. Compass SDA
   7. Compass Ground
